@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+<TITLE>0absoluto.html</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+//visualizar un mensaje de bienvenida
+alert ("¡bienve amigos!");
+</SCRIPT>
+
+</HEAD>
+<BODY>
+<a href='0absoluto2.html'>Ir al siguiente ejemplo...</a>
+</BODY>
+</HTML>
